@@ -10,7 +10,7 @@ Color borderColor;
 
       decoration: InputDecoration(
         hintText: hintText,
-        hintStyle: TextStyle(
+        hintStyle: const TextStyle(
           color: Colors.white,
         ),
         enabledBorder: OutlineInputBorder(
