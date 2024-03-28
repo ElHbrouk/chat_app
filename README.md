@@ -14,9 +14,9 @@ Real-time chat messaging provided by us allows users to chat with each other.
 
 ## Screenshots
 
-<img alt="App Screenshot" height="400" src="assets/example1.png" width="200"/>
-<img alt="App Screenshot" height="400" src="assets/example2.png" width="200"/>
-<img alt="App Screenshot" height="400" src="assets/example3.png" width="200"/>
+<img alt="App Screenshot" height="400" src="assets/images/example1.png" width="200"/>
+<img alt="App Screenshot" height="400" src="assets/images/example2.png" width="200"/>
+<img alt="App Screenshot" height="400" src="assets/images/example3.png" width="200"/>
 
 
 
