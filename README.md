@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img alt="Logo" height="250" src="assets/images/logo.webp" width="250"/>
 
 
@@ -38,3 +39,8 @@ Real-time chat messaging provided by us allows users to chat with each other.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+=======
+chat_app
+
+A simple chatting app.
+>>>>>>> 7084fb0dab5f71f3f3af097de1a7761f8602e417
