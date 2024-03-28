@@ -1,16 +1,40 @@
-# chat_app
+<img alt="Logo" height="250" src="assets/images/logo.webp" width="250"/>
 
-A new Flutter project.
 
-## Getting Started
+# Chat Application
 
-This project is a starting point for a Flutter application.
+Real-time chat messaging provided by us allows users to chat with each other.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Download APK
+* Install the application
+
+## Screenshots
+
+<img alt="App Screenshot" height="400" src="assets/example1.jpg" width="200"/>
+<img alt="App Screenshot" height="400" src="assets/example2.jpg" width="200"/>
+<img alt="App Screenshot" height="400" src="assets/example3.jpg" width="200"/>
+
+
+
+## Tech Stack
+
+**UI:** Flutter
+
+**FireBase:** Authentication 
+
+
+
+## Features
+
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
